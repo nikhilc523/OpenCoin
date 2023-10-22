@@ -12,6 +12,11 @@ Click on each coin to view detailed statistics and a graph showcasing the latest
 
 - **Detailed Coin Data**: Get comprehensive statistics for each coin.
 - **Price Trend Graph**: Visualize the price movement of each coin with a user-friendly graph.
+## Install Dependencies
+
+```bash
+npm i
+npm start
   
 ## Resources Used in This Project
 
@@ -23,6 +28,7 @@ Click on each coin to view detailed statistics and a graph showcasing the latest
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Recharts](https://recharts.org/)
+
 
 ## Contributing
 
