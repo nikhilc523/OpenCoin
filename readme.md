@@ -34,4 +34,5 @@ If you have suggestions or improvements, feel free to contribute to the project.
 
 ```bash
 npm i
+## To run 
 npm start
